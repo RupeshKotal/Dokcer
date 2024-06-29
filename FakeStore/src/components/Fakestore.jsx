@@ -81,7 +81,7 @@ export function Fakestore(){
         <>
         <div className="container-fluid">
             <header className="d-flex justify-content-between mt-3 py-4 bg-black text-white align-items-center px-3">
-                <h2>Fakestore</h2>
+                <h2>Flip store</h2>
                 <div className="d-flex gap-3">
                     <span>Home</span>
                     <span>Electonics</span>
